@@ -1,0 +1,6 @@
+{
+  "name": "Moodify - Sahabat Curhat & Musik Kamu",
+  "description": "Ruang aman untuk curhat, mendengarkan musik kurasi emosional, memantau radar mood mingguan, dan berbagi cerita antar teman SMP se-Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
